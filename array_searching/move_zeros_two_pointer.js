@@ -21,7 +21,6 @@ for (let i = 0; i < nums.length; i++) {
             nums[i] = nums[j];
 
             nums[j] = temp;
-           console.log('hello')
         }
 
     }
